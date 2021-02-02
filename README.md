@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello :star:
+### Welcome to my GitHub, Where I push my code in like I would dirt under a rug.
+
+### 🌱 I’m currently learning SASS 
+
 
 <!--
 **angt08/angt08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
