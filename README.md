@@ -7,6 +7,8 @@
 #### [LinkeIn](https://www.linkedin.com/in/angz07/)
 #### [Gmail](angiezafra07@gmail.com)
 
+#### Visit my portfolio: [:computer:](https://angie-zafra.surge.sh/)
+
 
 <!--
 **angt08/angt08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
