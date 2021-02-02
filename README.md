@@ -1,8 +1,11 @@
 ### Hello :star:
 ### Welcome to my GitHub, Where I push my code in like I would dirt under a rug.
+#### I enjoy planning and designing web apps, coding them is my second favorite. 
 
-### 🌱 I’m currently learning SASS 
-
+####  :zap: I’m currently learning SASS 
+#### 📫 How to reach me: 
+#### [LinkeIn](https://www.linkedin.com/in/angz07/)
+#### [Gmail](angiezafra07@gmail.com)
 
 <!--
 **angt08/angt08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
