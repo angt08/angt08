@@ -3,7 +3,7 @@
 #### I enjoy planning and designing web apps, coding them is my second favorite. 
 
 ####  :zap: I’m currently learning SASS 
-#### 📫 Where reach me: 
+#### 📫 Where to reach me: 
 #### [LinkeIn](https://www.linkedin.com/in/angz07/)
 #### [Gmail](angiezafra07@gmail.com)
 
