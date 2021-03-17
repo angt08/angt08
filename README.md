@@ -2,7 +2,7 @@
 ### Welcome to my GitHub, Where I push my code in like I would dirt under a rug.
 #### I enjoy planning and designing web apps, coding them is my second favorite. 
 
-####  :zap: I’m currently learning SASS 
+####  :zap: I’m currently enrolled in Googles UX Design Certification Course. Be Back in a few.
 #### 📫 Where to reach me: 
 #### [LinkeIn](https://www.linkedin.com/in/angz07/)
 #### [Gmail](angiezafra07@gmail.com)
